@@ -44,7 +44,7 @@ int main() {
 ```
 
 ## Output:
-![Screenshot 2024-10-10 083248](https://github.com/user-attachments/assets/decaaacc-a2f3-4283-9a54-a5ac22c10652)
+![Screenshot 2024-10-10 090345](https://github.com/user-attachments/assets/fce198f6-b1a9-4841-9cb6-0b23fc471cad)
 
 
 
